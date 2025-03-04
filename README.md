@@ -1,6 +1,12 @@
-## Hi there, i'm Guilherme 👋
+<h1 align="center">👋 Olá, eu sou Guilherme Rodrigues!</h1>
 
-###
+### 📌 Sobre mim
+
+- 🔥 Desenvolvedor Full Stack com foco em **Java**  
+- 🎯 Sempre aprendendo coisas novas e buscando desafios  
+- 🎮 Amo tecnologia, games, música e café ☕  
+
+## 🖥️ Linguagens de Programação e Tecnologias 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -17,9 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
-
 <!--
 **GuiRodri06/GuiRodri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
