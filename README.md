@@ -44,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/GuiRodri06/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiRodri06&include_all_commits=true&show_icons=true&hide=contribs&theme=tokyonight" />
+    <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiRodri06&include_all_commits=true&show_icons=true&hide=contribs&theme=tokyonight" />
   </a>
   <a href="https://github.com/GuiRodri06/github-readme-stats">
-    <img height=200 width=365 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodri06&layout=compact&theme=tokyonight" />
+    <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodri06&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
